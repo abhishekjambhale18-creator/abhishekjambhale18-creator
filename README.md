@@ -4,7 +4,7 @@
 📍 Pune, Maharashtra
 
 Passionate about turning data into insights and building intelligent solutions.  
-Currently exploring **Data Science, Data Analytics, and Generative AI**, along with Web Development.
+Currently exploring **Data Science, Data Analytics & Generative AI**, along with Web Development.
 
 ---
 
@@ -28,7 +28,7 @@ Currently exploring **Data Science, Data Analytics, and Generative AI**, along w
 `Prompt Engineering` `Generative AI Tools`
 
 **Web Development**  
-`HTML` `CSS` `JavaScript` `(Learning Full Stack)`
+`HTML` `CSS` `JavaScript`
 
 **Tools**  
 `Jupyter Notebook` `Git` `GitHub`
@@ -42,14 +42,17 @@ Currently exploring **Data Science, Data Analytics, and Generative AI**, along w
 | [D-Mart Sales Dashboard](https://github.com/abhishekjambhale18-creator/ExcelLab9) | Complete retail business dashboard with KPIs and multi-dimensional analysis | Excel |
 | [PivotTable Deep Dive](https://github.com/abhishekjambhale18-creator/ExcelLab8) | Advanced PivotTable analysis of sales, profit, regions & trends | Excel |
 | [Data Cleaning + Analysis](https://github.com/abhishekjambhale18-creator/ExcelLab4) | Data cleaning, standardization, Conditional Formatting & top performers | Excel |
+| Coming Soon | Retail data analysis using Python (Pandas) + SQL | Python + SQL |
+| Coming Soon | Interactive dashboards in Power BI / Tableau | Power BI / Tableau |
 
 ---
 
 ### 📈 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
+</p>
 
 ---
 
@@ -65,9 +68,9 @@ Currently exploring **Data Science, Data Analytics, and Generative AI**, along w
 
 ### 📫 Connect with Me
 
-- LinkedIn: [Add your LinkedIn profile link]
-- Email: [Add your email]
-- Portfolio: Coming soon
+- LinkedIn → [Add your LinkedIn link]
+- Email → [Add your email]
+- Portfolio → Coming soon
 
 ---
 
