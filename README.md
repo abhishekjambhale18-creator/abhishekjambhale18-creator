@@ -1,37 +1,35 @@
 # Hi, I'm Abhishek Jambhale 👋
 
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Data%20Science-blue?style=for-the-badge)
+
 **MCA Student | Aspiring Data Analyst & Data Scientist**  
 📍 Pune, Maharashtra
 
-Passionate about turning data into insights and building intelligent solutions.  
-Currently exploring **Data Science, Data Analytics & Generative AI**, along with Web Development.
+I am passionate about transforming raw data into meaningful business insights.  
+Currently building strong foundations in **Data Analytics, Data Science, and Generative AI**, while also learning Web Development.
 
 ---
 
 ### 🚀 What I'm Working On
-- End-to-end data analysis projects using Excel, Python, and SQL
-- Building interactive dashboards in Power BI and Tableau
-- Learning Machine Learning and Prompt Engineering
-- Developing web applications alongside data skills
+- End-to-end retail analytics projects using Excel
+- Transitioning analysis into **Python (Pandas)** and **SQL**
+- Building interactive dashboards with Power BI and Tableau
+- Exploring Machine Learning and Prompt Engineering
+- Learning full-stack Web Development
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Data Analysis & Science**  
-`Excel` `Python` `Pandas` `NumPy` `MySQL` `Statistics` `Machine Learning`
-
-**Visualization & BI**  
-`Power BI` `Tableau` `Matplotlib` `Seaborn`
-
-**Generative AI**  
-`Prompt Engineering` `Generative AI Tools`
-
-**Web Development**  
-`HTML` `CSS` `JavaScript`
-
-**Tools**  
-`Jupyter Notebook` `Git` `GitHub`
+| Category              | Technologies                                      |
+|-----------------------|---------------------------------------------------|
+| **Data Analysis**     | Excel, Python, Pandas, NumPy, MySQL, Statistics   |
+| **Visualization**     | Power BI, Tableau, Matplotlib, Seaborn            |
+| **Machine Learning**  | Scikit-learn (Learning)                           |
+| **Generative AI**     | Prompt Engineering, Generative AI Tools           |
+| **Web Development**   | HTML, CSS, JavaScript                             |
+| **Tools**             | Jupyter Notebook, Git, GitHub                     |
 
 ---
 
@@ -39,19 +37,19 @@ Currently exploring **Data Science, Data Analytics & Generative AI**, along with
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [D-Mart Sales Dashboard](https://github.com/abhishekjambhale18-creator/ExcelLab9) | Complete retail business dashboard with KPIs and multi-dimensional analysis | Excel |
-| [PivotTable Deep Dive](https://github.com/abhishekjambhale18-creator/ExcelLab8) | Advanced PivotTable analysis of sales, profit, regions & trends | Excel |
-| [Data Cleaning + Analysis](https://github.com/abhishekjambhale18-creator/ExcelLab4) | Data cleaning, standardization, Conditional Formatting & top performers | Excel |
-| Coming Soon | Retail data analysis using Python (Pandas) + SQL | Python + SQL |
-| Coming Soon | Interactive dashboards in Power BI / Tableau | Power BI / Tableau |
+| [D-Mart Sales Dashboard](https://github.com/abhishekjambhale18-creator/ExcelLab9) | Complete retail business dashboard with KPIs, regional & category analysis | Excel |
+| [PivotTable Deep Dive](https://github.com/abhishekjambhale18-creator/ExcelLab8) | Multi-dimensional analysis of sales, profit, payment modes and trends | Excel |
+| [Data Cleaning + Min/Max Analysis](https://github.com/abhishekjambhale18-creator/ExcelLab4) | Data cleaning, standardization, Conditional Formatting & top performers | Excel |
+| Coming Soon | Same retail dataset analyzed using Python + SQL | Python, SQL |
+| Coming Soon | Interactive dashboards using Power BI / Tableau | Power BI, Tableau |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=default&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -59,7 +57,7 @@ Currently exploring **Data Science, Data Analytics & Generative AI**, along with
 ### 🌱 Currently Learning
 - Data Science & Data Analytics with Generative AI
 - Python for Data Analysis and Machine Learning
-- MySQL & advanced SQL
+- Advanced SQL with MySQL
 - Power BI and Tableau
 - Prompt Engineering
 - Web Development (HTML, CSS, JavaScript)
@@ -68,9 +66,9 @@ Currently exploring **Data Science, Data Analytics & Generative AI**, along with
 
 ### 📫 Connect with Me
 
-- LinkedIn → [Add your LinkedIn link]
-- Email → [Add your email]
-- Portfolio → Coming soon
+- **LinkedIn**: 
+- **Email**: abhishekjambhale.18@gmail.com
+- **Portfolio**: 
 
 ---
 
