@@ -1,23 +1,37 @@
 # Hi, I'm Abhishek Jambhale 👋
 
-🎓 MCA Student | Aspiring **Data Analyst & Data Scientist**  
+**MCA Student | Aspiring Data Analyst & Data Scientist**  
 📍 Pune, Maharashtra
 
-I love turning raw business data into clear insights. Currently focused on retail analytics using Excel, Python, and SQL.
+Passionate about turning data into insights and building intelligent solutions.  
+Currently exploring **Data Science, Data Analytics, and Generative AI**, along with Web Development.
 
 ---
 
 ### 🚀 What I'm Working On
-- Advanced Excel dashboards & PivotTable analysis (D-Mart retail data)
-- Transitioning the projects into **Python** and **SQL**
-- Learning Generative AI applications in data analysis
+- End-to-end data analysis projects using Excel, Python, and SQL
+- Building interactive dashboards in Power BI and Tableau
+- Learning Machine Learning and Prompt Engineering
+- Developing web applications alongside data skills
 
 ---
 
 ### 🛠️ Tech Stack
-**Data Analysis:** Excel | Python | Pandas | SQL  
-**Visualization:** Excel Charts | Matplotlib | Seaborn | (learning Power BI, Tableau)  
-**Others:** Jupyter | Git | Generative AI exploration | Machine Learning
+
+**Data Analysis & Science**  
+`Excel` `Python` `Pandas` `NumPy` `MySQL` `Statistics` `Machine Learning`
+
+**Visualization & BI**  
+`Power BI` `Tableau` `Matplotlib` `Seaborn`
+
+**Generative AI**  
+`Prompt Engineering` `Generative AI Tools`
+
+**Web Development**  
+`HTML` `CSS` `JavaScript` `(Learning Full Stack)`
+
+**Tools**  
+`Jupyter Notebook` `Git` `GitHub`
 
 ---
 
@@ -25,33 +39,36 @@ I love turning raw business data into clear insights. Currently focused on retai
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [ExcelLab9 – D-Mart Sales Dashboard](https://github.com/abhishekjambhale18-creator/ExcelLab9) | Full retail business dashboard with PivotTables tracking sales, profit, regions & customers | Excel |
-| [ExcelLab8 – PivotTable Analysis](https://github.com/abhishekjambhale18-creator/ExcelLab8) | Deep dive into sales, profit, payment modes & time trends using PivotTables | Excel |
+| [D-Mart Sales Dashboard](https://github.com/abhishekjambhale18-creator/ExcelLab9) | Complete retail business dashboard with KPIs and multi-dimensional analysis | Excel |
+| [PivotTable Deep Dive](https://github.com/abhishekjambhale18-creator/ExcelLab8) | Advanced PivotTable analysis of sales, profit, regions & trends | Excel |
+| [Data Cleaning + Analysis](https://github.com/abhishekjambhale18-creator/ExcelLab4) | Data cleaning, standardization, Conditional Formatting & top performers | Excel |
 
 ---
 
 ### 📈 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=radical)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=default&hide_border=true)
 
 ---
 
 ### 🌱 Currently Learning
-- Python for Data Analysis 
-- SQL for querying business data
-- Power BI, Tableau / advanced visualization
-- Generative AI for data storytelling
-- Machine Learning for predictioan and pattern recognition
+- Data Science & Data Analytics with Generative AI
+- Python for Data Analysis and Machine Learning
+- MySQL & advanced SQL
+- Power BI and Tableau
+- Prompt Engineering
+- Web Development (HTML, CSS, JavaScript)
 
 ---
 
 ### 📫 Connect with Me
-- LinkedIn:
-- Email: abhishekjambhale.18@gmail.com
+
+- LinkedIn: [Add your LinkedIn profile link]
+- Email: [Add your email]
 - Portfolio: Coming soon
 
 ---
 
-⭐️ From [Abhishek Jambhale](https://github.com/abhishekjambhale18-creator)
+⭐ From [Abhishek Jambhale](https://github.com/abhishekjambhale18-creator)
