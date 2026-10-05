@@ -40,16 +40,14 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 | [D-Mart Sales Dashboard](https://github.com/abhishekjambhale18-creator/ExcelLab9) | Complete retail business dashboard with KPIs, regional & category analysis | Excel |
 | [PivotTable Deep Dive](https://github.com/abhishekjambhale18-creator/ExcelLab8) | Multi-dimensional analysis of sales, profit, payment modes and trends | Excel |
 | [Data Cleaning + Min/Max Analysis](https://github.com/abhishekjambhale18-creator/ExcelLab4) | Data cleaning, standardization, Conditional Formatting & top performers | Excel |
-| Coming Soon | Same retail dataset analyzed using Python + SQL | Python, SQL |
-| Coming Soon | Interactive dashboards using Power BI / Tableau | Power BI, Tableau |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
 </p>
 
 ---
