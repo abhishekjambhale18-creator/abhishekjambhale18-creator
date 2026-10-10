@@ -70,7 +70,6 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 - **LinkedIn**: [abhishek-jambhale](https://www.linkedin.com/in/abhishek-jambhale-4a3002442)
 - **Email**: abhishekjambhale.18@gmail.com
-- **Portfolio**: Coming soon
 
 ---
 
