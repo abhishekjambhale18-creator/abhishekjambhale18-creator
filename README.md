@@ -38,12 +38,12 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [IPL Analysis Dashboard (2008–2026)](https://github.com/abhishekjambhale18-creator/ipl-analysis-dashboard-2008-2026) | Complete IPL match analysis with interactive dashboard, team performance & venue insights | Excel |
-| [D-Mart Sales Dashboard](https://github.com/abhishekjambhale18-creator/ExcelLab9) | Complete retail business dashboard with KPIs, regional & category analysis | Excel |
-| [PivotTable Deep Dive](https://github.com/abhishekjambhale18-creator/ExcelLab8) | Multi-dimensional analysis of sales, profit, payment modes and trends | Excel |
-| [Data Cleaning + Min/Max Analysis](https://github.com/abhishekjambhale18-creator/ExcelLab4) | Data cleaning, standardization, Conditional Formatting & top performers | Excel |
-| [Bank Database SQL](https://github.com/abhishekjambhale18-creator/bank-database-sql) | Banking system database design with tables, DDL operations & sample structure | MySQL |
-| [BiteBox Restaurant Website](https://github.com/abhishekjambhale18-creator/BiteBox) | Multi-page restaurant website with clean structure (HTML, CSS, JS) | HTML, CSS, JS |
+| [IPL Analysis Dashboard (2008–2026)](https://github.com/abhishekjambhale18-creator/IPL-Analysis-Dashboard-2008-2026) | Complete IPL match analysis with interactive dashboard, team performance & venue insights | Excel |
+| [D-Mart Retail Business Dashboard](https://github.com/abhishekjambhale18-creator/D-Mart_Retail_Business_Dashboard) | Retail business dashboard with KPIs, regional, category & customer analysis | Excel |
+| [PivotTables Deep Dive](https://github.com/abhishekjambhale18-creator/PivotTables_Deep_Dive) | Multi-dimensional analysis of sales, profit, payment modes and trends | Excel |
+| [Bank Database SQL](https://github.com/abhishekjambhale18-creator/Bank-Database-SQL) | Banking system database design with tables and basic DDL operations | MySQL |
+| [SQL Students Database](https://github.com/abhishekjambhale18-creator/SQL-Students-Database) | SQL practice covering DDL & DML operations on a students dataset | MySQL |
+| [BiteBox Multi-Page Website](https://github.com/abhishekjambhale18-creator/BiteBox-Website-Nevigations) | Multi-page restaurant website with Home, Menu, About & Contact pages | HTML |
 
 ---
 
