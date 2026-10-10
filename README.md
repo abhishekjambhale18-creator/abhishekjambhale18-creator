@@ -12,9 +12,9 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 ---
 
 ### 🚀 What I'm Working On
-- End-to-end retail analytics projects using Excel
+- End-to-end retail and sports analytics projects using Excel
 - SQL database design and querying
-- Transitioning analysis into **Python (Pandas)** 
+- Transitioning analysis into **Python (Pandas)**
 - Building interactive dashboards with Power BI and Tableau
 - Exploring Machine Learning and Prompt Engineering
 - Learning full-stack Web Development
@@ -38,6 +38,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [IPL Analysis Dashboard (2008–2026)](https://github.com/abhishekjambhale18-creator/ipl-analysis-dashboard-2008-2026) | Complete IPL match analysis with interactive dashboard, team performance & venue insights | Excel |
 | [D-Mart Sales Dashboard](https://github.com/abhishekjambhale18-creator/ExcelLab9) | Complete retail business dashboard with KPIs, regional & category analysis | Excel |
 | [PivotTable Deep Dive](https://github.com/abhishekjambhale18-creator/ExcelLab8) | Multi-dimensional analysis of sales, profit, payment modes and trends | Excel |
 | [Data Cleaning + Min/Max Analysis](https://github.com/abhishekjambhale18-creator/ExcelLab4) | Data cleaning, standardization, Conditional Formatting & top performers | Excel |
@@ -67,7 +68,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 ### 📫 Connect with Me
 
-- **LinkedIn**: www.linkedin.com/in/abhishek-jambhale-4a3002442
+- **LinkedIn**: [abhishek-jambhale](https://www.linkedin.com/in/abhishek-jambhale-4a3002442)
 - **Email**: abhishekjambhale.18@gmail.com
 - **Portfolio**: Coming soon
 
