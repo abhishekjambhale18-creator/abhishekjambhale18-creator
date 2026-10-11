@@ -1,7 +1,10 @@
 # Hi, I'm Abhishek Jambhale 👋
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Data%20Science-blue?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Data%20Science-2979FF?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-Generative%20AI-AA00FF?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 **MCA Student | Aspiring Data Analyst & Data Scientist**  
 📍 Pune, Maharashtra
@@ -17,7 +20,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 - Transitioning analysis into **Python (Pandas)**
 - Building interactive dashboards with Power BI and Tableau
 - Exploring Machine Learning and Prompt Engineering
-- Learning full-stack Web Development
+- Building multi-page websites with HTML
 
 ---
 
@@ -70,7 +73,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 - **LinkedIn**: [abhishek-jambhale](https://www.linkedin.com/in/abhishek-jambhale-4a3002442)
 - **Email**: abhishekjambhale.18@gmail.com
-
+- 
 ---
 
 ⭐ From [Abhishek Jambhale](https://github.com/abhishekjambhale18-creator)
