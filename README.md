@@ -16,7 +16,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 ### 🚀 What I'm Working On
 - End-to-end retail and sports analytics projects using Excel
-- SQL database design and querying
+- SQL database design, constraints, and querying
 - Transitioning analysis into **Python (Pandas)**
 - Building interactive dashboards with Power BI and Tableau
 - Exploring Machine Learning and Prompt Engineering
@@ -44,8 +44,8 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 | [IPL Analysis Dashboard (2008–2026)](https://github.com/abhishekjambhale18-creator/IPL-Analysis-Dashboard-2008-2026) | Complete IPL match analysis with interactive dashboard, team performance & venue insights | Excel |
 | [D-Mart Retail Business Dashboard](https://github.com/abhishekjambhale18-creator/D-Mart_Retail_Business_Dashboard) | Retail business dashboard with KPIs, regional, category & customer analysis | Excel |
 | [PivotTables Deep Dive](https://github.com/abhishekjambhale18-creator/PivotTables_Deep_Dive) | Multi-dimensional analysis of sales, profit, payment modes and trends | Excel |
-| [Bank Database SQL](https://github.com/abhishekjambhale18-creator/Bank-Database-SQL) | Banking system database design with tables and basic DDL operations | MySQL |
-| [SQL Students Database](https://github.com/abhishekjambhale18-creator/SQL-Students-Database) | SQL practice covering DDL & DML operations on a students dataset | MySQL |
+| [Bank Database Setup](https://github.com/abhishekjambhale18-creator/Bank-Database-SQL) | Banking system database design with tables and basic DDL operations | MySQL |
+| [Bank Database Constraints](https://github.com/abhishekjambhale18-creator/Bank-Database-Constraints) | Primary Key, Foreign Key, Unique, Not Null & Check constraints | MySQL |
 | [BiteBox Multi-Page Website](https://github.com/abhishekjambhale18-creator/BiteBox-Website-Nevigations) | Multi-page restaurant website with Home, Menu, About & Contact pages | HTML |
 
 ---
@@ -73,7 +73,8 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 - **LinkedIn**: [abhishek-jambhale](https://www.linkedin.com/in/abhishek-jambhale-4a3002442)
 - **Email**: abhishekjambhale.18@gmail.com
-- 
+- **Portfolio**: Coming soon
+
 ---
 
 ⭐ From [Abhishek Jambhale](https://github.com/abhishekjambhale18-creator)
