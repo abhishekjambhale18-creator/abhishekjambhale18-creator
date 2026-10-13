@@ -20,7 +20,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 - Transitioning analysis into **Python (Pandas)**
 - Building interactive dashboards with Power BI and Tableau
 - Exploring Machine Learning and Prompt Engineering
-- Building multi-page websites with HTML
+- Building multi-page websites with HTML (Semantic structure & Tables)
 
 ---
 
@@ -46,7 +46,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 | [PivotTables Deep Dive](https://github.com/abhishekjambhale18-creator/PivotTables_Deep_Dive) | Multi-dimensional analysis of sales, profit, payment modes and trends | Excel |
 | [Bank Database Setup](https://github.com/abhishekjambhale18-creator/Bank-Database-SQL) | Banking system database design with tables and basic DDL operations | MySQL |
 | [Bank Database Constraints](https://github.com/abhishekjambhale18-creator/Bank-Database-Constraints) | Primary Key, Foreign Key, Unique, Not Null & Check constraints | MySQL |
-| [BiteBox Multi-Page Website](https://github.com/abhishekjambhale18-creator/BiteBox-Website-Nevigations) | Multi-page restaurant website with Home, Menu, About & Contact pages | HTML |
+| [BiteBox HTML Tables](https://github.com/abhishekjambhale18-creator/BiteBox-HTML-Tables) | Multi-page restaurant website with semantic HTML and advanced tables | HTML |
 
 ---
 
