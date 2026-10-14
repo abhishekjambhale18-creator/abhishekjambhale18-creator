@@ -20,7 +20,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 - Transitioning analysis into **Python (Pandas)**
 - Building interactive dashboards with Power BI and Tableau
 - Exploring Machine Learning and Prompt Engineering
-- Building multi-page websites with HTML (Semantic structure & Tables)
+- Building multi-page websites with HTML (Forms, Tables & Semantic structure)
 
 ---
 
@@ -43,18 +43,22 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 |---------|-------------|------|
 | [IPL Analysis Dashboard (2008–2026)](https://github.com/abhishekjambhale18-creator/IPL-Analysis-Dashboard-2008-2026) | Complete IPL match analysis with interactive dashboard, team performance & venue insights | Excel |
 | [D-Mart Retail Business Dashboard](https://github.com/abhishekjambhale18-creator/D-Mart_Retail_Business_Dashboard) | Retail business dashboard with KPIs, regional, category & customer analysis | Excel |
-| [PivotTables Deep Dive](https://github.com/abhishekjambhale18-creator/PivotTables_Deep_Dive) | Multi-dimensional analysis of sales, profit, payment modes and trends | Excel |
 | [Bank Database Setup](https://github.com/abhishekjambhale18-creator/Bank-Database-SQL) | Banking system database design with tables and basic DDL operations | MySQL |
 | [Bank Database Constraints](https://github.com/abhishekjambhale18-creator/Bank-Database-Constraints) | Primary Key, Foreign Key, Unique, Not Null & Check constraints | MySQL |
-| [BiteBox HTML Tables](https://github.com/abhishekjambhale18-creator/BiteBox-HTML-Tables) | Multi-page restaurant website with semantic HTML and advanced tables | HTML |
+| [BiteBox Contact Form](https://github.com/abhishekjambhale18-creator/BiteBox-Contact-Form) | Multi-page restaurant website with HTML forms, tables & semantic structure | HTML |
+| [BiteBox Menu Table](https://github.com/abhishekjambhale18-creator/BiteBox-Menu-Table) | Restaurant menu with advanced HTML tables (rowspan & colspan) | HTML |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjambhale18-creator&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
 </p>
 
 ---
