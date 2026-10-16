@@ -16,11 +16,11 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 ### 🚀 What I'm Working On
 - End-to-end retail and sports analytics projects using Excel
-- SQL database design, constraints, and querying
+- SQL database design, constraints, relationships & EER diagrams
 - Transitioning analysis into **Python (Pandas)**
 - Building interactive dashboards with Power BI and Tableau
 - Exploring Machine Learning and Prompt Engineering
-- Building multi-page websites with HTML (Forms, Tables & Semantic structure)
+- Building multi-page restaurant websites with HTML (Forms, Tables, Cart & Layout)
 
 ---
 
@@ -33,7 +33,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 | **Machine Learning** | Scikit-learn (Learning)                         |
 | **Generative AI**    | Prompt Engineering, Generative AI Tools         |
 | **Web Development**  | HTML, CSS, JavaScript                           |
-| **Tools**            | Jupyter Notebook, Git, GitHub                   |
+| **Tools**            | Jupyter Notebook, Git, GitHub, MySQL Workbench  |
 
 ---
 
@@ -43,10 +43,10 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 |---------|-------------|------|
 | [IPL Analysis Dashboard (2008–2026)](https://github.com/abhishekjambhale18-creator/IPL-Analysis-Dashboard-2008-2026) | Complete IPL match analysis with interactive dashboard, team performance & venue insights | Excel |
 | [D-Mart Retail Business Dashboard](https://github.com/abhishekjambhale18-creator/D-Mart_Retail_Business_Dashboard) | Retail business dashboard with KPIs, regional, category & customer analysis | Excel |
-| [Bank Database Setup](https://github.com/abhishekjambhale18-creator/Bank-Database-SQL) | Banking system database design with tables and basic DDL operations | MySQL |
+| [Bank Database Relationships](https://github.com/abhishekjambhale18-creator/Bank-Database-Relationships) | Full table relationships with Primary Keys, Foreign Keys & EER Diagram | MySQL |
 | [Bank Database Constraints](https://github.com/abhishekjambhale18-creator/Bank-Database-Constraints) | Primary Key, Foreign Key, Unique, Not Null & Check constraints | MySQL |
 | [BiteBox Contact Form](https://github.com/abhishekjambhale18-creator/BiteBox-Contact-Form) | Multi-page restaurant website with HTML forms, tables & semantic structure | HTML |
-| [BiteBox Menu Table](https://github.com/abhishekjambhale18-creator/BiteBox-Menu-Table) | Restaurant menu with advanced HTML tables (rowspan & colspan) | HTML |
+| [BiteBox Full Website Structure](https://github.com/abhishekjambhale18-creator/Website-Refactoring_-_Professional-Layout-Planning-Part-1) | Complete multi-page layout with hero, reviews, chefs, footer & more | HTML |
 
 ---
 
