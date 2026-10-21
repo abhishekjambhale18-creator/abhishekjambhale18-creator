@@ -16,11 +16,11 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 ### 🚀 What I'm Working On
 - End-to-end retail and sports analytics projects using Excel
-- SQL database design, constraints, relationships & EER diagrams
+- Complete Bank Database series in MySQL (Design → Constraints → Relationships → DML)
 - Transitioning analysis into **Python (Pandas)**
 - Building interactive dashboards with Power BI and Tableau
 - Exploring Machine Learning and Prompt Engineering
-- Building multi-page restaurant websites with HTML (Forms, Tables, Cart & Layout)
+- Building multi-page restaurant websites with HTML & CSS
 
 ---
 
@@ -43,10 +43,10 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 |---------|-------------|------|
 | [IPL Analysis Dashboard (2008–2026)](https://github.com/abhishekjambhale18-creator/IPL-Analysis-Dashboard-2008-2026) | Complete IPL match analysis with interactive dashboard, team performance & venue insights | Excel |
 | [D-Mart Retail Business Dashboard](https://github.com/abhishekjambhale18-creator/D-Mart_Retail_Business_Dashboard) | Retail business dashboard with KPIs, regional, category & customer analysis | Excel |
-| [Bank Database Relationships](https://github.com/abhishekjambhale18-creator/Bank-Database-Relationships) | Full table relationships with Primary Keys, Foreign Keys & EER Diagram | MySQL |
-| [Bank Database Constraints](https://github.com/abhishekjambhale18-creator/Bank-Database-Constraints) | Primary Key, Foreign Key, Unique, Not Null & Check constraints | MySQL |
-| [BiteBox Contact Form](https://github.com/abhishekjambhale18-creator/BiteBox-Contact-Form) | Multi-page restaurant website with HTML forms, tables & semantic structure | HTML |
-| [BiteBox Full Website Structure](https://github.com/abhishekjambhale18-creator/Website-Refactoring_-_Professional-Layout-Planning-Part-1) | Complete multi-page layout with hero, reviews, chefs, footer & more | HTML |
+| [Bank Database MySQL](https://github.com/abhishekjambhale18-creator/Bank-Database-MySQL) | Complete bank database series – setup, constraints, relationships, EER diagram & DML | MySQL |
+| [BiteBox CSS Typography & Layout](https://github.com/abhishekjambhale18-creator/BiteBox-CSS-Typography-Layout) | Multi-page restaurant website with Google Fonts, hero sections & CSS styling | HTML, CSS |
+| [BiteBox CSS Reset & Navigation](https://github.com/abhishekjambhale18-creator/BiteBox-CSS-Reset-Navigation) | First CSS styling – reset, logo sizing & navigation hover effects | HTML, CSS |
+| [SQL Bookstore Database](https://github.com/abhishekjambhale18-creator/SQL-Bookstore-Database) | Bookstore database with tables, constraints, relationships & DML practice | MySQL |
 
 ---
 
