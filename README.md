@@ -54,8 +54,8 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=0" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&cache_seconds=0" height="165"/>
 </p>
 
 <p align="center">
