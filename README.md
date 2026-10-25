@@ -17,11 +17,11 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 ### 🚀 What I'm Working On
 - End-to-end retail and sports analytics projects using Excel
-- Complete Bank Database series in MySQL (Setup → Constraints → Relationships → DML → SELECT Queries)
+- Complete Bank Database series in MySQL (Setup → Constraints → Relationships → DML → SELECT → Advanced Queries)
 - Transitioning analysis into **Python (Pandas)**
 - Building interactive dashboards with Power BI and Tableau
 - Exploring Machine Learning and Prompt Engineering
-- Building multi-page restaurant websites with HTML & CSS (UI components, cards, tags, full styling)
+- Building multi-page restaurant websites with HTML & CSS
 
 ---
 
@@ -44,7 +44,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 |---------|-------------|------|
 | [IPL Analysis Dashboard (2008–2026)](https://github.com/abhishekjambhale18-creator/IPL-Analysis-Dashboard-2008-2026) | Complete IPL match analysis with interactive dashboard, team performance & venue insights | Excel |
 | [D-Mart Retail Business Dashboard](https://github.com/abhishekjambhale18-creator/D-Mart_Retail_Business_Dashboard) | Retail business dashboard with KPIs, regional, category & customer analysis | Excel |
-| [Bank Database MySQL](https://github.com/abhishekjambhale18-creator/Bank-Database-MySQL) | Complete bank database series – setup, constraints, relationships, DML & SELECT queries | MySQL |
+| [Bank Database MySQL](https://github.com/abhishekjambhale18-creator/Bank-Database-MySQL) | Complete bank database series – setup, constraints, relationships, DML, SELECT & advanced queries | MySQL |
 | [BiteBox UI Components](https://github.com/abhishekjambhale18-creator/BiteBox-UI-Components-Structure) | Multi-page restaurant website with cards, tags, reviews, chefs, stats & full CSS styling | HTML, CSS |
 | [BiteBox CSS Typography](https://github.com/abhishekjambhale18-creator/BiteBox-CSS-Typography-Layout) | Google Fonts, hero sections, navigation & layout styling | HTML, CSS |
 | [SQL Bookstore Database](https://github.com/abhishekjambhale18-creator/SQL-Bookstore-Database) | Bookstore database with tables, constraints, relationships & DML practice | MySQL |
