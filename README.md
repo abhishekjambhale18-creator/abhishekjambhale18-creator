@@ -21,7 +21,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 - Transitioning analysis into **Python (Pandas)**
 - Building interactive dashboards with Power BI and Tableau
 - Exploring Machine Learning and Prompt Engineering
-- Building multi-page restaurant websites with HTML & CSS (professional layout, cart, footer)
+- Building multi-page restaurant websites with HTML & CSS (responsive design)
 
 ---
 
@@ -45,8 +45,8 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 | [IPL Analysis Dashboard (2008–2026)](https://github.com/abhishekjambhale18-creator/IPL-Analysis-Dashboard-2008-2026) | Complete IPL match analysis with interactive dashboard, team performance & venue insights | Excel |
 | [D-Mart Retail Business Dashboard](https://github.com/abhishekjambhale18-creator/D-Mart_Retail_Business_Dashboard) | Retail business dashboard with KPIs, regional, category & customer analysis | Excel |
 | [Bank Database MySQL](https://github.com/abhishekjambhale18-creator/Bank-Database-MySQL) | Complete bank database series – setup, constraints, relationships, DML, SELECT, functions & aggregates | MySQL |
-| [BiteBox Professional Layout](https://github.com/abhishekjambhale18-creator/BiteBox-Professional-Layout-Footer-Cart) | Multi-page restaurant website with sticky header, cart, contact form, Google Maps & footer | HTML, CSS |
-| [BiteBox UI Components](https://github.com/abhishekjambhale18-creator/BiteBox-UI-Components-Structure) | Feature cards, menu tags, reviews, chefs, statistics & full CSS styling | HTML, CSS |
+| [BiteBox Responsive Design](https://github.com/abhishekjambhale18-creator/BiteBox-Responsive-Design) | Multi-page restaurant website with full responsive CSS, mobile layouts & media queries | HTML, CSS |
+| [BiteBox Professional Layout](https://github.com/abhishekjambhale18-creator/BiteBox-Professional-Layout-Footer-Cart) | Sticky header, cart page, contact form, Google Maps & multi-column footer | HTML, CSS |
 | [SQL Bookstore Database](https://github.com/abhishekjambhale18-creator/SQL-Bookstore-Database) | Bookstore database with tables, constraints, relationships & DML practice | MySQL |
 
 ---
