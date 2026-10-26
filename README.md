@@ -54,12 +54,12 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&size_weight=0.5&count_weight=0.5" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&cache_seconds=60" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=60" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekjambhale18-creator&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=abhishekjambhale18-creator&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
 </p>
 
 ---
