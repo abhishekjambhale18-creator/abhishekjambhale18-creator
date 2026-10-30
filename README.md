@@ -53,12 +53,15 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=dark&hide_border=true" alt="Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhishekjambhale18-creator&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=dark&hide_border=true" alt="Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjambhale18-creator&theme=dark&hide_border=true" alt="Streak"/>
 </p>
 
 ---
