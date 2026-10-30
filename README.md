@@ -42,8 +42,8 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [AI-Based Resume Analyser](https://github.com/abhishekjambhale18-creator/AI-Based-Resume-Analyser) | Resume skill extraction and job matching using TF-IDF + Cosine Similarity with user/admin dashboards | Python, Flask, MySQL |
 | [BiteBox Restaurant Website](https://github.com/abhishekjambhale18-creator/BiteBox-Restaurant-Website) | Complete multi-page restaurant website with cart, search, filter, dark mode & responsive design | HTML, CSS, JS |
+| [AI-Based Resume Analyser](https://github.com/abhishekjambhale18-creator/AI-Based-Resume-Analyser) | Resume skill extraction and job matching using TF-IDF + Cosine Similarity with user/admin dashboards | Python, Flask, MySQL |
 | [Bank Database MySQL](https://github.com/abhishekjambhale18-creator/Bank-Database-MySQL) | Full bank database series – constraints, DML, SELECT, functions, aggregates & window functions | MySQL |
 | [IPL Analysis Dashboard (2008–2026)](https://github.com/abhishekjambhale18-creator/IPL-Analysis-Dashboard-2008-2026) | IPL match analysis dashboard with team performance, venues & season trends | Excel |
 | [D-Mart Retail Business Dashboard](https://github.com/abhishekjambhale18-creator/D-Mart_Retail_Business_Dashboard) | Retail business dashboard with KPIs, regions, categories & customers | Excel |
@@ -53,8 +53,8 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
