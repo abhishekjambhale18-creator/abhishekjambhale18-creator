@@ -17,7 +17,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 ### 🚀 What I'm Working On
 - End-to-end retail and sports analytics projects using Excel
-- Complete Bank Database series in MySQL (Setup → Window Functions)
+- Complete Bank Database series in MySQL
 - Transitioning analysis into **Python (Pandas)**
 - Building interactive dashboards with Power BI and Tableau
 - Exploring Machine Learning and Prompt Engineering
@@ -53,13 +53,14 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=dark&hide_border=true" alt="Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=abhishekjambhale18-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhishekjambhale18-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhishekjambhale18-creator&theme=dark&hide_border=true&background=0D1117" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abhishekjambhale18-creator&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
+
 ---
 
 ### 🌱 Currently Learning
