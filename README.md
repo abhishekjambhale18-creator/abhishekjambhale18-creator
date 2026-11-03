@@ -17,11 +17,12 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 ### 🚀 What I'm Working On
 - End-to-end retail and sports analytics projects using Excel
-- Complete Bank Database series in MySQL
+- Complete Bank Database series in MySQL (Setup → Subqueries)
+- SQL practice tasks (JOINs, window functions, subqueries)
 - AI-Based Resume Analyser (Flask + MySQL + TF-IDF matching)
 - Transitioning analysis into **Python (Pandas)**
 - Building interactive dashboards with Power BI and Tableau
-- Full multi-page restaurant website with HTML, CSS & JavaScript
+- Multi-page restaurant website with HTML, CSS & JavaScript
 
 ---
 
@@ -42,9 +43,10 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 | Project | Description | Tech |
 | --- | --- | --- |
+| [Bank Database MySQL](https://github.com/abhishekjambhale18-creator/Bank-Database-MySQL) | Full bank database series – constraints, DML, SELECT, functions, aggregates, JOINs & subqueries | MySQL |
+| [Practice Tasks MySQL](https://github.com/abhishekjambhale18-creator/Practice-Tasks-MySQL) | SQL practice tasks covering DDL, DML, window functions, JOINs and subqueries | MySQL |
 | [AI-Based Resume Analyser](https://github.com/abhishekjambhale18-creator/AI-Based-Resume-Analyser) | Resume skill extraction and job matching using TF-IDF + Cosine Similarity with user/admin dashboards | Python, Flask, MySQL |
 | [BiteBox Restaurant Website](https://github.com/abhishekjambhale18-creator/BiteBox-Restaurant-Website) | Complete multi-page restaurant website with cart, search, filter, dark mode & responsive design | HTML, CSS, JS |
-| [Bank Database MySQL](https://github.com/abhishekjambhale18-creator/Bank-Database-MySQL) | Full bank database series – constraints, DML, SELECT, functions, aggregates & window functions | MySQL |
 | [IPL Analysis Dashboard (2008–2026)](https://github.com/abhishekjambhale18-creator/IPL-Analysis-Dashboard-2008-2026) | IPL match analysis dashboard with team performance, venues & season trends | Excel |
 | [D-Mart Retail Business Dashboard](https://github.com/abhishekjambhale18-creator/D-Mart_Retail_Business_Dashboard) | Retail business dashboard with KPIs, regions, categories & customers | Excel |
 
