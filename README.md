@@ -16,13 +16,12 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 ---
 
 ### 🚀 What I'm Working On
-- End-to-end retail and sports analytics projects using Excel
-- Complete Bank Database series in MySQL (Setup → Subqueries)
+- Complete Excel data analytics series (cleaning → dashboards)
+- Bank Database series in MySQL (Setup → Subqueries)
 - SQL practice tasks (JOINs, window functions, subqueries)
 - AI-Based Resume Analyser (Flask + MySQL + TF-IDF matching)
 - Transitioning analysis into **Python (Pandas)**
 - Building interactive dashboards with Power BI and Tableau
-- Multi-page restaurant website with HTML, CSS & JavaScript
 
 ---
 
@@ -43,12 +42,12 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 
 | Project | Description | Tech |
 | --- | --- | --- |
+| [Excel Data Analytics](https://github.com/abhishekjambhale18-creator/Excel-Data-Analytics) | Complete Excel series on retail data – cleaning, formulas, lookups, PivotTables & dashboards | Excel |
 | [Bank Database MySQL](https://github.com/abhishekjambhale18-creator/Bank-Database-MySQL) | Full bank database series – constraints, DML, SELECT, functions, aggregates, JOINs & subqueries | MySQL |
 | [Practice Tasks MySQL](https://github.com/abhishekjambhale18-creator/Practice-Tasks-MySQL) | SQL practice tasks covering DDL, DML, window functions, JOINs and subqueries | MySQL |
-| [AI-Based Resume Analyser](https://github.com/abhishekjambhale18-creator/AI-Based-Resume-Analyser) | Resume skill extraction and job matching using TF-IDF + Cosine Similarity with user/admin dashboards | Python, Flask, MySQL |
-| [BiteBox Restaurant Website](https://github.com/abhishekjambhale18-creator/BiteBox-Restaurant-Website) | Complete multi-page restaurant website with cart, search, filter, dark mode & responsive design | HTML, CSS, JS |
+| [AI-Based Resume Analyser](https://github.com/abhishekjambhale18-creator/AI-Based-Resume-Analyser) | Resume skill extraction and job matching using TF-IDF + Cosine Similarity | Python, Flask, MySQL |
 | [IPL Analysis Dashboard (2008–2026)](https://github.com/abhishekjambhale18-creator/IPL-Analysis-Dashboard-2008-2026) | IPL match analysis dashboard with team performance, venues & season trends | Excel |
-| [D-Mart Retail Business Dashboard](https://github.com/abhishekjambhale18-creator/D-Mart_Retail_Business_Dashboard) | Retail business dashboard with KPIs, regions, categories & customers | Excel |
+| [BiteBox Restaurant Website](https://github.com/abhishekjambhale18-creator/BiteBox-Restaurant-Website) | Multi-page restaurant website with cart, search, filter, dark mode & responsive design | HTML, CSS, JS |
 
 ---
 
