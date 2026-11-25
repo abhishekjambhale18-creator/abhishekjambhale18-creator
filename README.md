@@ -19,6 +19,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 - Complete Excel data analytics series (cleaning → dashboards)
 - Bank Database series in MySQL (Setup → Views)
 - Advanced SQL practice (JOINs, subqueries, views)
+- Power BI data modeling (Star Schema & HR Analytics models)
 - AI-Based Resume Analyser (Flask + MySQL + TF-IDF matching)
 - Transitioning analysis into **Python (Pandas)**
 - Building interactive dashboards with Power BI and Tableau
@@ -34,7 +35,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 | **Machine Learning** | Scikit-learn (TF-IDF, Cosine Similarity) |
 | **Generative AI** | Prompt Engineering, Generative AI Tools |
 | **Web Development** | HTML, CSS, JavaScript, Flask |
-| **Tools** | Jupyter Notebook, Git, GitHub, MySQL Workbench |
+| **Tools** | Jupyter Notebook, Git, GitHub, MySQL Workbench, Power BI Desktop |
 
 ---
 
@@ -45,6 +46,7 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 | [Excel Data Analytics](https://github.com/abhishekjambhale18-creator/Excel-Data-Analytics) | Complete Excel series on retail data – cleaning, formulas, lookups, PivotTables & dashboards | Excel |
 | [Bank Database MySQL](https://github.com/abhishekjambhale18-creator/Bank-Database-MySQL) | Full bank database series – constraints, DML, SELECT, JOINs, subqueries & views | MySQL |
 | [Practice Tasks MySQL](https://github.com/abhishekjambhale18-creator/Practice-Tasks-MySQL) | SQL practice tasks covering DDL, DML, window functions, JOINs, subqueries & views | MySQL |
+| [Power BI Analytics Labs](https://github.com/abhishekjambhale18-creator/PowerBI-Analytics-Labs) | Power BI labs focused on data modeling, star schema, relationships & dashboard foundation | Power BI |
 | [AI-Based Resume Analyser](https://github.com/abhishekjambhale18-creator/AI-Based-Resume-Analyser) | Resume skill extraction and job matching using TF-IDF + Cosine Similarity | Python, Flask, MySQL |
 | [IPL Analysis Dashboard (2008–2026)](https://github.com/abhishekjambhale18-creator/IPL-Analysis-Dashboard-2008-2026) | IPL match analysis dashboard with team performance, venues & season trends | Excel |
 | [BiteBox Restaurant Website](https://github.com/abhishekjambhale18-creator/BiteBox-Restaurant-Website) | Multi-page restaurant website with cart, search, filter, dark mode & responsive design | HTML, CSS, JS |
@@ -68,9 +70,9 @@ Currently building strong foundations in **Data Analytics, Data Science, and Gen
 - Data Science & Data Analytics with Generative AI
 - Python for Data Analysis and Machine Learning
 - Advanced SQL with MySQL
-- Power BI and Tableau
+- Power BI (Data Modeling + Dashboards)
+- Tableau
 - Prompt Engineering
-- Web Development (HTML, CSS, JavaScript, Flask)
 
 ---
 
